@@ -1,0 +1,60 @@
+.background{
+	background-image: url(../images/bg2.jpg);
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.nav{
+	text-align: left;
+	font-family: verdana;
+	font-size: 35px;
+}
+.index{
+	background-color: transparent;
+	color: black;
+}
+a{
+	color: white;
+	text-decoration: none;
+	background-color: transparent;
+	font-weight: bold;
+	margin: 0.5%;
+}
+a.active, .nav a:hover{
+	background-color:transparent;
+	color: black;
+	width: 100%;
+}
+.profile{
+	height:300px;
+	width: 300px;
+	border-image: 150px;
+	 display: block;
+	 margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+	font-family: verdana;
+
+}
+h3{
+	color: white;
+	font-size: 20px;
+	margin-top: -40px;
+	margin-left: 50px;
+	font-family: verdana;
+}
+.title{
+	text-align: center;
+	font-family: curlz mt;
+	font-size: 70px;
+	color: white;
+	margin-top: -1px;
+	text-decoration: underline;
+}
